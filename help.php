@@ -191,6 +191,7 @@ $delay=pdo_query($sql);
     </tr>
     <tr>
       <td><a class='btn btn-block btn-sm' href="https://qm.qq.com/q/vaPfl6vbhK" target="_blank">手机QQ加官方群561987387</a></td>
+	<td><p></p><td>
       <td><a class='btn btn-block btn-sm' href="http://akoj.hustoj.com/viewnews.php?id=1010" target="_blank">联系我们(AKOJ管理员)</a></td>
       <td><p></p></td>
     </tr>
