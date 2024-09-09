@@ -1,4 +1,3 @@
-//此文件仅供参考，禁止全盘复制！
 </div>
 </div>
 <script src="<?php echo $OJ_CDN_URL.$path_fix."template/$OJ_TEMPLATE"?>/css/semantic.min.js"></script>
@@ -21,17 +20,14 @@
         border-radius: 0;
         box-shadow: none;
     }
-//模板链接：<a href="http://akoj.hustoj.com/viewnews.php?id=1010" target="_blank">联系我们</a>
     </style>
     <?php include(dirname(__FILE__)."/js.php");?>
     <div class="footer">
-        <div class="ui center aligned container" title="如有问题，请联系169611625@qq.com" >
-            AccppK对本站做出二次开发,如有想要一起管理此网站、对网站做出贡献、捐赠网站的请联系169711625@qq.com</a><a href="http://akoj.hustoj.com/viewnews.php?id=1010" target="_blank">联系我们</a>
-            <div><?php echo $domain==$DOMAIN?$OJ_NAME:"akoj"?> 使用Zhblue的 <a style="color: inherit !important;" class=" " title="Zhblue的HUSTOJ"
-                    target="_blank" rel="noreferrer noopener" href="https://github.com/zhblue/hustoj">HUSTOJ</a>, 图像来自
-                 <a style="color: inherit !important;" href="https://www.bing.com/">BING</a></div>
-            
-                
+        <div class="ui center aligned container" title="如有问题，请联系169711625@qq.com" >
+            <div><?php echo $domain==$DOMAIN?$OJ_NAME:ucwords($OJ_NAME)."'s OJ"?> is powered by <a style="color: inherit !important;" class=" " title="GitHub"
+                    target="_blank" rel="noreferrer noopener" href="https://github.com/zhblue/hustoj">HUSTOJ</a>, Theme
+                by <a style="color: inherit !important;" href="https://github.com/syzoj">SYZOJ</a></div>
+                            OJ is by ShaoxiaOJ            <a href="http://akoj.hustoj.com/akoj_hzhb.html" target="_blank">合作伙伴</a>
          <!--   <div> Running on <a href='https://debian.org' target='_blank'>Debian11</a> / <a href='https://www.loongson.cn' target='_blank'>Loongson 3A3000</a> </div> -->
             <?php if ($OJ_BEIAN) { ?>
             <div>
