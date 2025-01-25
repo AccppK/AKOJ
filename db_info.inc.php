@@ -6,10 +6,7 @@
 // 本文件是系统配置文件，全局包含，修改时请慎重保存，千万不要少分号，少引号，出现语法错误可导致全站无法打开。
 // 若遇到此种情况，可以备份后删除本文件，用/home/judge/src/install/fixing.sh脚本修复生成。
 // connect db 
-static 	$DB_HOST="localhost";  //数据库服务器ip或域名
-static 	$DB_NAME="jol";   //数据库名
-static 	$DB_USER="hustoj";  //数据库账户
-static 	$DB_PASS="0jpP3fT1CDQlOPP3Phqsi91EsmdLx0";  //数据库密码
+
 
 static 	$OJ_NAME="AKOJ";  //左上角显示的系统名称, 尽量简洁，避免用中文和空格，如需中文、长字符串、图片，可以直接修改template/syzoj/header.php
 static 	$OJ_HOME="./";    //主页目录
