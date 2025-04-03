@@ -37,7 +37,8 @@
 ## 🛠️ 快速部署  
 ### 基础要求  
 - PHP ≥ 7.4 + MySQL ≥ 5.7  
-- Linux/Windows 均可  
+- ubuntu 22.04 均可  
+- 开发文档:https://github.com/AccppK/AKOJ/blob/main/docs/install.md
 
 ### 安装功能 
 ```bash
