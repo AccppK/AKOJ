@@ -7,7 +7,8 @@
 **✨ 一个由五年级小学生开发的 HUSTOJ 优化版 | 轻量 | 易部署 | 适合算法教学**  
 
 ![Demo GIF](https://user-images.githubusercontent.com/你的ID/示例.gif)  
-（👆 用 ScreenToGif 录制实际判题流程）
+![image](https://github.com/user-attachments/assets/13ddf07e-7ee9-4e81-899d-ebe3e88c64f2)
+
 
 ---
 
@@ -27,6 +28,9 @@
 ✅ **开发者友好**  
 - 完全开源，代码注释率 90%+  
 - 提供二次开发 [指南](#-二次开发)  
+
+✅ **在线演示**  
+- www.akoj.top 
 
 ---
 
