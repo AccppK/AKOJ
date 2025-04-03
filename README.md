@@ -27,7 +27,7 @@
 
 ✅ **开发者友好**  
 - 完全开源，代码注释率 90%+  
-- 提供二次开发 [指南](#-二次开发)  
+- 提供二次开发 [指南](https://github.com/AccppK/AKOJ/blob/main/docs/hustoj.md)  
 
 ✅ **在线演示**  
 - www.akoj.top 
