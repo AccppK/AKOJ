@@ -22,15 +22,18 @@
 - 数据库查询效率提升 30%（实测）  
 
 ✅ **教育场景友好**  
-- 内置 **小学生友好题库**（洛谷入门题精选）  
-- 支持教师一键导入题目（`.zip` 格式）  
+- 内置 **小学生友好题库**（洛谷入门题精选）  （还没有）
+- 支持教师一键导入题目（`.zip` 格式）  （还没有）
 
 ✅ **开发者友好**  
 - 完全开源，代码注释率 90%+  
 - 提供二次开发 [指南](https://github.com/AccppK/AKOJ/blob/main/docs/hustoj.md)  
 
 ✅ **在线演示**  
-- www.akoj.top 
+- www.akoj.top  
+- 
+✅ **鸣谢**  
+- [鸣谢MarkDown](https://github.com/AccppK/AKOJ/blob/main/docs/thinkyou.md)   
 
 ---
 
@@ -46,4 +49,4 @@ git clone (文件)
 cd AKOJ
 # 导入数据库（详见 php内部注释）
 ```
-"我是@AccppK，五年级开始学习编程。发现学校用的OJ系统太复杂，于是用PHP重写了核心判题逻辑，希望能帮助更多初学者！"
+"我是@AccppK，五年级开始学习编程。发现学校用的OJ系统太丑陋，于是用PHP重写了Web端，希望能帮助更多初学者！"
