@@ -1,5 +1,5 @@
 # 🚀 AKOJ - 基于 HUSTOJ 的极简 PHP 判题系统  
-
+[ENGLISH](https://github.com/AccppK/AKOJ/blob/main/README_ENGLISH.md)
 [![GitHub Stars](https://img.shields.io/github/stars/AccppK/AKOJ?style=social)](https://github.com/AccppK/AKOJ/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/AccppK/AKOJ?style=social)](https://github.com/AccppK/AKOJ/network/members)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
