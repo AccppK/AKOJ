@@ -2,6 +2,10 @@
 [![GitHub Forks](https://img.shields.io/github/forks/AccppK/AKOJ?style=social)](https://github.com/AccppK/AKOJ/network/members)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # 🚀快速开始
+## 给我们点击Star！
+💕您的Star是对我最大的支持，如您觉得本项目和文档对您有用的话，请为我们点击一个Star！  
+💕请点击下方或点击右上角Star使其变为黄色即可。  
+[![GitHub Stars](https://img.shields.io/github/stars/AccppK/AKOJ?style=social)](https://github.com/AccppK/AKOJ/stargazers)  
 ## 📌注意事项
 ### 您必须已经部署过HUSTOJ
 
