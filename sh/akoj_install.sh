@@ -1,4 +1,5 @@
 git clone http://dl.hustoj.com/install.sh
+sudo bash install.sh
 echo "Hust OJ部署完毕,启动AKOJ部署计划"
 cd /home/judge/src/web/template/syzoj/
 rm index.php
