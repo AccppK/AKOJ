@@ -50,21 +50,21 @@ cd AKOJ
 # 导入数据库（详见 php内部注释）
 ```
 ## 联系我们
-[On Telegram](https://t.me/+CWnK7cwgA-cwMzRi)
-[On tencent QQ](https://qm.qq.com/q/kLe9cTbvpu)
-[On Bilibili](https://space.bilibili.com/3546666523166935/)
-[On Github](https://github.com/AccppK)
-Tips:
-If you are in China, you cannot use Telegram to send us feedback & messages, otherwise you will do so at your own risk.
-If you are located in: USA, Russia, France, UK, etc., use the Telegram communication tool.
+[On Telegram](https://t.me/+CWnK7cwgA-cwMzRi)<br>
+[On tencent QQ](https://qm.qq.com/q/kLe9cTbvpu)<br>
+[On Bilibili](https://space.bilibili.com/3546666523166935/)<br>
+[On Github](https://github.com/AccppK)<br>
+Tips:<br>
+If you are in China, you cannot use Telegram to send us feedback & messages, otherwise you will do so at your own risk.<br>
+If you are located in: USA, Russia, France, UK, etc., use the Telegram communication tool.<br>
 
 ## 关于我
-我是一名五年级小学生，位于：
-China,Anhui,Wuhu
-学校位于安徽省芜湖市北塘小学（热死了他妈这么热的天不给开空调服了（（（（
-感谢您的支持！如果您是我校信息老师，也欢迎联系我，我位于北塘东方龙城校区！欢迎合作&加盟！
-I am a 5th grade elementary school student located in:
-China,Anhui,Wuhu
-The school is located in Beitang Primary School, Wuhu City, Anhui Province (it's so hot, it's so hot that I won't turn on the air conditioner suit (((((
-Thank you for your support! If you are an information teacher of our school, please also welcome to contact me, I am located in Beitang Oriental Longcheng Campus! Welcome to cooperate & join!
+我是一名五年级小学生，位于：<br>
+China,Anhui,Wuhu<br>
+学校位于安徽省芜湖市北塘小学（热死了他妈这么热的天不给开空调服了（（（（<br>
+感谢您的支持！如果您是我校信息老师，也欢迎联系我，我位于北塘东方龙城校区！欢迎合作&加盟！<br>
+I am a 5th grade elementary school student located in:<br>
+China,Anhui,Wuhu<br>
+The school is located in Beitang Primary School, Wuhu City, Anhui Province (it's so hot, it's so hot that I won't turn on the air conditioner suit (((((<br>
+Thank you for your support! If you are an information teacher of our school, please also welcome to contact me, I am located in Beitang Oriental Longcheng Campus! Welcome to cooperate & join!<br>
 "我是@AccppK，五年级开始学习编程。发现学校用的OJ系统太丑陋，于是用PHP重写了Web端，希望能帮助更多初学者！"
